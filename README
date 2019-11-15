@@ -1,3 +1,5 @@
+Ayush Jha, Rupesh Gudipudi, Varun Srivastava
+
 To run this code, cd to this file in terminal and run the following command :
 "python3 ./HW2.py <num1> <num2> <num3"
 where num1, num2, and num3 are user-input provided integers in ascending order.
